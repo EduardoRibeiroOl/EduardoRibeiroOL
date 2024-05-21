@@ -1,7 +1,6 @@
 ## Olá sou Eduardo 👋
 
-- 🔭 Trabalho com Circuitos elétricos
-- 🌱 Estou aprendendo C#
+<img height=15 alt="Bandeira do Brasil" src="https://user-images.githubusercontent.com/39463872/117911655-8b8c0980-b2b4-11eb-9291-403c6f7f8a4d.png" /> PT-BR </br>
 - 📫 Me contate pelo email: Eduardoolive77@gmail.com
 
 <br />
@@ -18,10 +17,13 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ 
+  <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
+  
 </div>
-
+<!--<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><-->
 <br />
 
 
