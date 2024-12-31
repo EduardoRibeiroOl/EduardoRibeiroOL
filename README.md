@@ -1,7 +1,7 @@
-## Olá sou Eduardo 👋
+ ## Hello 👋
 
 <img height=15 alt="Bandeira do Brasil" src="https://user-images.githubusercontent.com/39463872/117911655-8b8c0980-b2b4-11eb-9291-403c6f7f8a4d.png" /> PT-BR </br>
-- 📫 Me contate pelo email: Eduardoolive77@gmail.com
+- 📫 contact me by email: Eduardoolive77@gmail.com
 
 <br />
 
