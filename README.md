@@ -61,7 +61,7 @@
 ###
 
 <div align="left">
-  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2F2aWNicWdjdm85YjAyYWljaHlsYjA0YmRqamR5YzZ6amxjaTZuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sw6fiilaRDWz7KW5x5/giphy.gif"  />
+  <img height="300" src="https://media.giphy.com/media/R5YYY4JI51Gq4/giphy.gif?cid=ecf05e47g8h6mkbmtm9bewon7l6vup6udzbekinlw041c6ya&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
